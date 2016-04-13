@@ -1,10 +1,9 @@
 # Udemy React Redux Course
 
-## ReduxSimpleStarter
+- Udemy Coursework Progress 
+- https://www.udemy.com/react-redux/
 
-Udemy Coursework Progress [Redux](https://www.udemy.com/react-redux/)?
-
-###Developer Machine Setup
+##Developer Machine Setup
 ```
 	> npm install
 	> npm start
